@@ -9,3 +9,5 @@
 [execute]clarity[/12][skip_fwd]
 [beta]18.0-22.0Hz[/beta][skip]
 [execute]culmination[/187.61][skip]
+[execute]solar_plexus[/10.0][skip]
+[execute]security[/90.0=90.0Hz][skip]
