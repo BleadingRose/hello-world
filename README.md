@@ -18,3 +18,6 @@
 [execute]headache_relief[/160.0Hz][skip]
 [execute]growth[/183.58Hz][skip]
 [execute]1.0-9999.0Hz[/range][play]
+[esc=reduce][br]
+[esc]absent_mindedness[/5.8Hz][/esc]
+[execute=exe][br]
