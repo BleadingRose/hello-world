@@ -15,3 +15,5 @@
 [execute]theta[/5.5-8.0Hz][skip]
 [execute]transcendence[/16/4Hz][skip]
 [execute]communication[/141.27Hz][skip]
+[execute]headache_relief[/160.0Hz][skip]
+[execute]growth[/183.58Hz][skip]
