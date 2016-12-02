@@ -12,3 +12,5 @@
 [execute]solar_plexus[/10.0][skip]
 [execute]security[/90.0=90.0Hz][skip]
 [execute]SOL[/741.0Hz][skip]
+[execute]theta[/5.5-8.0Hz][skip]
+[execute]transcendence[/16/4Hz][skip]
