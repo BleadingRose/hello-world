@@ -6,4 +6,6 @@
 [execute]clairvoyance[/8.3][skip_fwd][skip][br]
 [execute]alpha_range[/9.0-13][skip_fwd]
 [execute]warmth[/197][skip_fwd]
-
+[execute]clarity[/12][skip_fwd]
+[beta]18.0-22.0Hz[/beta][skip]
+[execute]culmination[/187.61][skip]
